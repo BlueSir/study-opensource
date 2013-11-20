@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study-archaius/study-archaius.iml" filepath="$PROJECT_DIR$/study-archaius/study-archaius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-metrics/study-metrics.iml" filepath="$PROJECT_DIR$/study-metrics/study-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-opensource.iml" filepath="$PROJECT_DIR$/study-opensource.iml" />
+    </modules>
+  </component>
+</project>
+
